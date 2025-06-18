@@ -1,6 +1,7 @@
 # Static-Analysis-of-MPI-Reduction-Opportunities-in-C-C-Using-LLVM-
 Static analysis tool for detecting MPI reduction patterns in C/C++ using LLVM compiler passes
 ![snap1](https://github.com/user-attachments/assets/bd6f0bc7-9587-4d61-8f2b-ab0122260dd9)
+
 A compiler-based tool to detect and analyze MPI reduction patterns in C/C++ programs through LLVM static analysis.
 ## Key Features  
 - **Automatic Detection** of explicit MPI reductions (`MPI_Reduce`, `MPI_Allreduce`)  
