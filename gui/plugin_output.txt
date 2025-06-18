@@ -1,0 +1,2 @@
+Running DetectMPIReduce Pass
+✅ Found call to: MPI_Reduce
